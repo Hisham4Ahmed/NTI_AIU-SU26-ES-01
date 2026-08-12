@@ -1,0 +1,67 @@
+# ============================================================
+# AVR / Embedded C Build Artifacts
+# ============================================================
+
+# Compiled Object files
+*.o
+*.obj
+
+# Linker output
+*.elf
+*.hex
+*.map
+*.lss
+*.lst
+*.srec
+*.bin
+
+# Executables (linux/windows)
+*.out
+*.exe
+
+# Microchip Studio / Atmel Studio Project files
+*.atsln
+*.componentinfo.xml
+*.cproj
+Debug/
+Release/
+
+# ============================================================
+# OS & Editor Junk
+# ============================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# ============================================================
+# Proteus Design Files (keep .pdsprj, ignore backups/logs)
+# ============================================================
+*.DBK
+*.log
+
+# ============================================================
+# Miscellaneous
+# ============================================================
+
+# Build directories
+build/
+bin/
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
