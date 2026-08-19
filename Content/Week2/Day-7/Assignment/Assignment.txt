@@ -1,0 +1,36 @@
+- C function to SWAP two pointers, draw what happens in the Stack.
+- C function to SWAP two variables.
+- C function to SWAP two arrays.
+- C function to multiply two integer numbers.
+- C function to toggle a LED.
+- C function to toggle a specific bit in 8-bits variable.
+- C code to control the led brightness using potentiometer.
+- C function to print array elements using pointer.
+- C function to copy an array of char (contains repeated numbers) to a new array excluding the repeated numbers using only one loop O(n).
+- C function to search for an element in array using binary search both iterative and recursive & mention time complexity.
+- C function to get the most repeated element in an array
+- C function returns the average of an array
+- Fibonacci series without recursion
+- C function to count how many times it has been called in the system Show the difference between big endian and little endian with code
+- C function to find the repeated number in an unsorted array of size 101 elements in an optimized way
+- C function to remove the duplicated numbers in an array
+- C function to add two numbers, takes two unsigned char as arguments and returns the result in unsigned char and discuss where is the problem and how to solve it
+- C function to get the max. / min. number in array and its index
+- C function to check if the number is prime or not
+- C function to count number of zeros / ones in the binary of an integer
+- C function that takes a number. The function will be called many times in the application and it should return the maximum input number from the first called
+- C function to return the maximum number of zeros between two ones in the binary of an integer.
+- C function that returns the sum of the digits of an integer number. Example: 1234, the function should return 1+2+3+4 = 10
+- C function to reverse bits of an 8-bit number. Example: 11010010 --> 01001011
+- C function to send a frame of 8 bytes and then send the sum of the data in the frame in 2 bytes, then write a function that will receive the frame and check if the data is received correctly
+- C function to sort an array using bubble sort algorithm
+- C Function to compare between 2 arrays if they contain same elements or not If you are given an array {1,2,5,7,1,1,3,1,7}, create a function that takes this array and an integer (like 1 in this case) and return it as follows: {2,5,7,3,7,1,1,1,1}
+- C function to sort an array using any algorithm
+- C function to reverse a string using both iteration and recursion
+- C function to SWAP the two 4-bits of 8-bits numbers
+- C function to return the circular shift of bits of a specific number
+- C function to search for a specific string in a stream of data
+- C function to clear a specific bit in an integer and another one to set a bit
+- C function that takes x and y, then returns their summation and multiplication by different ways (3 ways)
+- If you have two arrays x and y, each array have 5 elements, write a function that swap both arrays in a reversed pattern (x[0] with y[5])
+- C function to reverse an array

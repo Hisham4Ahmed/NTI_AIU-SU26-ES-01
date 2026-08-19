@@ -1,0 +1,16 @@
+
+1-  Tools  
+    Text Editor : Vs Code  
+    Tool Chain : EmbeddedBuilder From Gestell 
+    Sim : Proteus 8.13
+2- PrePration : 
+    Create : Repo 
+    Folder Structure 
+    Read Me  
+    Hardware Component on Proteus or Not ]
+    
+3- NoN Embedded Technical 
+    1- command line git tool 
+    2- Proteus Design  
+    3- Doxygen comment  
+    4- Masra-C 
