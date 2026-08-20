@@ -65,3 +65,7 @@ bin/
 *.zip
 *.tar.gz
 *.rar
+*release
+*.txt
+*.json
+
